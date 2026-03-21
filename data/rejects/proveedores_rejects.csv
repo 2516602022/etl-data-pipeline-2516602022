@@ -1,0 +1,4 @@
+id_proveedor,proveedor,pais,motivo_rechazo
+P304,Insumos Globales 4,Guatemala,id_proveedor_duplicado
+P334,TecnoSupply 34,Guatemala,id_proveedor_duplicado
+P318,Distribuidora Atlas 18,Honduras,id_proveedor_duplicado
