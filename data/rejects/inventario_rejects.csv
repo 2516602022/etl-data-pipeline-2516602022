@@ -1,0 +1,24 @@
+id_inventario,id_producto,stock,bodega,motivo_rechazo
+I7019,PR1063,,Sucursal 1,stock_invalido_o_vacio
+I7020,PR1024,,Tránsito,stock_invalido_o_vacio
+I7022,PR1011,,Sucursal 2,stock_invalido_o_vacio
+I7027,PR1059,,Central,stock_invalido_o_vacio
+I7043,PR1125,,Sucursal 2,stock_invalido_o_vacio
+I7062,PR1044,,Sucursal 1,stock_invalido_o_vacio
+I7079,PR1076,,Tránsito,stock_invalido_o_vacio
+I7092,PR1008,,Sucursal 1,stock_invalido_o_vacio
+I7101,PR1061,,Sucursal 2,stock_invalido_o_vacio
+I7102,PR1083,,Tránsito,stock_invalido_o_vacio
+I7111,PR1021,,Sucursal 2,stock_invalido_o_vacio
+I7117,PR1013,,Sucursal 1,stock_invalido_o_vacio
+I7130,PR1050,,Tránsito,stock_invalido_o_vacio
+I7134,PR1095,,Sucursal 1,stock_invalido_o_vacio
+I7150,PR1125,,Sucursal 2,stock_invalido_o_vacio
+I7158,PR1078,,Tránsito,stock_invalido_o_vacio
+I7176,PR1001,,Central,stock_invalido_o_vacio
+I7062,PR1044,,Sucursal 1,"id_inventario_duplicado,stock_invalido_o_vacio"
+I7139,PR1034,4.0,Tránsito,id_inventario_duplicado
+I7021,PR1023,65.0,Sucursal 1,id_inventario_duplicado
+I7025,PR1026,192.0,Sucursal 1,id_inventario_duplicado
+I7071,PR1045,110.0,Tránsito,id_inventario_duplicado
+I7050,PR1071,170.0,Central,id_inventario_duplicado
