@@ -1,0 +1,26 @@
+id_producto,producto,precio,id_proveedor,motivo_rechazo
+PR1001,Teclado 1,61.12,nan,id_proveedor_vacio
+PR1020,Proyector 20,,P313,precio_invalido_o_vacio
+PR1021,Audífonos 21,,P333,precio_invalido_o_vacio
+PR1023,Tablet 23,,P302,precio_invalido_o_vacio
+PR1039,Escritorio 39,,P307,precio_invalido_o_vacio
+PR1052,Mouse 52,303.35,nan,id_proveedor_vacio
+PR1055,Mouse 55,,P332,precio_invalido_o_vacio
+PR1065,Router 65,360.33,nan,id_proveedor_vacio
+PR1069,Webcam 69,,P309,precio_invalido_o_vacio
+PR1074,Webcam 74,49.22,nan,id_proveedor_vacio
+PR1077,Tablet 77,149.08,nan,id_proveedor_vacio
+PR1079,Laptop 79,,P301,precio_invalido_o_vacio
+PR1083,Silla 83,381.77,nan,id_proveedor_vacio
+PR1087,Monitor 87,,P334,precio_invalido_o_vacio
+PR1094,Silla 94,,P333,precio_invalido_o_vacio
+PR1096,Disco Ssd 96,,P314,precio_invalido_o_vacio
+PR1113,Disco Ssd 113,,P317,precio_invalido_o_vacio
+PR1127,Silla 127,1055.55,nan,id_proveedor_vacio
+PR1135,Mouse 135,,P312,precio_invalido_o_vacio
+PR1091,Monitor 91,34.16,P306,id_producto_duplicado
+PR1005,Router 5,725.77,P322,id_producto_duplicado
+PR1083,Silla 83,381.77,nan,"id_producto_duplicado,id_proveedor_vacio"
+PR1065,Router 65,360.33,nan,"id_producto_duplicado,id_proveedor_vacio"
+PR1139,Laptop 139,215.95,P310,id_producto_duplicado
+PR1019,Mouse 19,318.41,P303,id_producto_duplicado
